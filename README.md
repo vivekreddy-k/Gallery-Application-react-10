@@ -1,4 +1,4 @@
-In this assignment let's build a **Gallery App** by applying the concepts we have learned till now.
+In this assignment let's build a **Gallery App** 
 
 ### Refer to images below:
 
@@ -52,7 +52,7 @@ The app must have the following functionalities
 - The `ThumbnailsList` component should render thumbnail images.
 
 
-- Your task is to complete the implementation of
+- core code files
   - `src/components/Gallery/index.js`
   - `src/components/Gallery/index.css`
   - `src/components/ThumbnailsList/index.js`
@@ -99,11 +99,3 @@ Thumbnail image URLs
 
 - Roboto
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being
->   imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a
->   look at the Cheat Sheets.
